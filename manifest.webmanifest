@@ -1,1 +1,16 @@
-{"name":"Control Sisay","short_name":"Sisay","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f2f7f4","theme_color":"#147a68","description":"Control de clientes, inventario, ventas y seguimiento Sisay.","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "id": "/Listado-Yadi/",
+  "name": "Control Sisay",
+  "short_name": "Sisay",
+  "description": "Control de clientes, inventario, llamadas, ventas y pendientes.",
+  "start_url": "/Listado-Yadi/",
+  "scope": "/Listado-Yadi/",
+  "display": "standalone",
+  "background_color": "#f2f7f4",
+  "theme_color": "#147a68",
+  "lang": "es-MX",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
